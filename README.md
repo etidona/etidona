@@ -36,7 +36,7 @@ I run a small home lab on recycled hardware, where I try out anything I want to 
 ### Projects
 
 - **[QR from Screen](https://github.com/etidona/QRFromScreen)**: scans the QR codes shown on your screen and acts on them (opens links, joins Wi-Fi networks, writes emails). Rust, GTK4/libadwaita, Flatpak builds for x86_64 and aarch64 on GitHub Actions.
-- **[DMS Web Popups](https://github.com/etidona/dms-web-popups)**: opens web apps (WhatsApp, Telegram, Discord, YouTube…) in popups next to the DankMaterialShell bar, with unread badges, notifications, per-app mute and separate logins for each app; the buttons can be grouped into one that expands on hover. Microphone, camera and local network access are blocked unless you allow them. QML, Python with PyQt6 and Qt WebEngine, Wayland layer-shell.
+- **[DMS Web Popups](https://github.com/etidona/dms-web-popups)**: opens web apps (WhatsApp, Telegram, Discord, YouTube…) in popups next to the DankMaterialShell bar, with unread badges, notifications, separate logins, and per-app mute and audio output (e.g. YouTube to the headphones, WhatsApp to the speakers); the buttons can be grouped into one that opens a panel on hover. Microphone, camera and local network access are blocked unless you allow them. QML, Python with PyQt6 and Qt WebEngine, Wayland layer-shell, PipeWire.
 - **[DMS Simple Battery Charge Protection](https://github.com/etidona/dms-simple-battery-charge-protection)**: a one-click battery charge limit for DankMaterialShell. It installs a udev rule through polkit, so it asks for the password only once. [Listed](https://github.com/duxlabs-dev/dux-plugin-registry/pull/1125) in the Dux Shell plugin registry.
 
 ### Contributions
