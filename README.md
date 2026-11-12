@@ -4,7 +4,7 @@
 
 ### From photography to IT
 
-For more than 15 years I ran my own photography studio: weddings, portraits, family photography and reportage, and everything around them, specially IT stuff.
+For more than 15 years I ran my own photography studio ([emilianotidona.com](https://emilianotidona.com)): weddings, portraits, family photography and reportage, and everything around them, specially IT stuff.
 
 That's why now I'm moving into IT, looking for an entry-level role in support, help desk or junior system administration. Everything I know about IT so far, I taught myself.
 
